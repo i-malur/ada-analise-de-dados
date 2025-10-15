@@ -1,2 +1,7 @@
-# ada-analise-de-dados
-Repositório com todas as atividades desenvolvidas no programa Elas+ Tech | Data Analytics
+# ADA - ELAS+ TECH - DATA ANALYTICS
+
+Este repositório contém todos os códigos realizados nos seguintes cursos:
+1. Python: noções introdutórias
+2. Análise Exploratória de Dados
+
+
